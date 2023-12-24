@@ -1,0 +1,14 @@
+{
+    "name": "ratwifhat",
+    "symbol": "RAT",
+    "description": "skeet skeet im rat im chees rat TG: t.me/ratwifhatcoin  TW: https://twitter.com/ratwifhatcoin",
+    "image": "https://raw.githubusercontent.com/mateorodfr/soltest/main/testjpeg.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mateorodfr/soltest/main/testjpeg.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
